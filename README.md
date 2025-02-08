@@ -41,7 +41,7 @@ This is a Python-based AI voice assistant that performs various tasks using voic
    ```
 4. Run the assistant:
    ```bash
-   python main.py  # Ensure to use the correct filename
+   python main.py  
    ```
 
 ## Configuration
