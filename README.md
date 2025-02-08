@@ -50,6 +50,4 @@ This is a Python-based AI voice assistant that performs various tasks using voic
 ## Contribution
 Feel free to fork the repository and submit pull requests with improvements.
 
-## License
-This project is licensed under the MIT License.
 
